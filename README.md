@@ -1,5 +1,10 @@
 # Interview Study Guide
 
+### Resources
+
+- [Cram Score Problems](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)  
+- [Leetcode Patterns](https://medium.com/leetcode-patterns)
+
 ### Dynamic Programming vs Backtracking
 
 Comparison to Dynamic Programming
@@ -13,3 +18,11 @@ It is similar to DP in that we are exhaustively searching a solution space guara
 Unlike DP, backtracking is typically not looking for one **optimal** solution, but is instead looking for all that satisfy some criteria. So the structure of the algorithm is much less about being efficient at throwing previous information that you don't need because it doesn't lead you to the optimal solution and more about learning what parts of the space you don't need to explore as you are collecting all solutions that qualify.
 
 [Source](https://guides.codepath.com/compsci/Backtracking#glossary)
+
+### Key Tricks/Insights
+
+- Stack is first in last out, use it for next largest items  
+- Binary Search is bounded by low/hi (not necessarily by recursion)  
+- Singly linked list can be reversed with 3 pointers  
+- Dynamic Programming is recognizing subproblems  
+- For questions about arrays that have items 1≤i≤n (at most 2 of the same number) use the index to mark as visited

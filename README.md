@@ -8,6 +8,7 @@
 
 ### Dynamic Programming
 - [How to approach DP problems](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)
+- [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Decision-Making)  
 
 #### Dynamic Programming vs Backtracking
 

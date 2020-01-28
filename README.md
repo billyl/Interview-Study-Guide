@@ -6,7 +6,10 @@
 - [Leetcode Patterns](https://medium.com/leetcode-patterns)  
 - [Divide and Conquer, Dynamic Programming and Backtracking](https://medium.com/algorithms-and-leetcode/note-for-divide-and-conquer-algorithms-c8bcffcd4440)
 
-### Dynamic Programming vs Backtracking
+### Dynamic Programming
+- [How to approach DP problems](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)
+
+#### Dynamic Programming vs Backtracking
 
 Comparison to Dynamic Programming
 

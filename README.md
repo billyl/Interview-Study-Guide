@@ -3,7 +3,8 @@
 ### Resources
 
 - [Cram Score Problems](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)  
-- [Leetcode Patterns](https://medium.com/leetcode-patterns)
+- [Leetcode Patterns](https://medium.com/leetcode-patterns)  
+- [Divide and Conquer, Dynamic Programming and Backtracking](https://medium.com/algorithms-and-leetcode/note-for-divide-and-conquer-algorithms-c8bcffcd4440)
 
 ### Dynamic Programming vs Backtracking
 

@@ -9,6 +9,8 @@
 ### Dynamic Programming
 - [How to approach DP problems](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Decision-Making)  
+- [DP Stairs Example](https://leetcode.com/problems/min-cost-climbing-stairs/discuss/221821/Recursion-Top-Down-Memoization-Bottom-up-DP-Java-100-AC)
+- [Video Series on Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu)
 
 #### Dynamic Programming vs Backtracking
 
